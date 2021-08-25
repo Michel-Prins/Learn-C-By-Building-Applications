@@ -8,6 +8,9 @@ namespace SimpleCalculator
 {
     class Program
     {
+        //Nu even een test voor het pushen naar GitHub
+        //Hoezo geen commits?
+
         static void Main(string[] args)
         {
             try
@@ -21,6 +24,7 @@ namespace SimpleCalculator
 
                 double result = calculatorEngine.Calculate(operation, firstNumber, secondNumber);
 
+                Console.WriteLine(result);
                 Console.WriteLine(result);
             }
             catch (Exception ex)

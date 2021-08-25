@@ -1,0 +1,14 @@
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.Test.Unit.pdb
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.exe
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.pdb
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\SimpleCalculator.exe.config
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.AssemblyReference.cache
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.csproj.CopyComplete
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.dll
+C:\Users\320141620\Source\Repos\Michel-Prins\Learn-C-By-Building-Applications\SimpleCalculator\SimpleCalculator.Test.Unit\obj\Debug\SimpleCalculator.Test.Unit.pdb

@@ -3,12 +3,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace SimpleCalculator.Test.Unit
 {
-    [TestClass]
+    [TestClass]                                                                                         //Attributes
     public class InputConverterTest
     {
         private readonly InputConverter _inputConverter = new InputConverter();
 
-        [TestMethod]
+        [TestMethod]                                                                                    //Attributes
         public void ConvertsValidStringInputIntoDouble()
         {
             string inputNumber = "5";
@@ -16,8 +16,8 @@ namespace SimpleCalculator.Test.Unit
             Assert.AreEqual(5, convertedNumber);
         }
 
-        [TestMethod]
-        [ExpectedException(typeof(ArgumentException))]
+        [TestMethod]                                                                                    //Attributes
+        [ExpectedException(typeof(ArgumentException))]                                                  //Attributes
         public void FailsToConvertInvalidStringInputIntoDouble()
         {
             string inputNumber = "*";

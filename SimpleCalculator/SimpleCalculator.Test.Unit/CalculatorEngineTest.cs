@@ -25,5 +25,59 @@ namespace SimpleCalculator.Test.Unit
             double result = _calculatorEngine.Calculate("+", number1, number2);
             Assert.AreEqual(3, result);
         }
+
+        [TestMethod]
+        public void SubstractTwoNumbersAndReturnsValidResultForNonSymbolOperation()
+        {
+            int number1 = 2;
+            int number2 = 1;
+            double result = _calculatorEngine.Calculate("subtract", number1, number2);
+            Assert.AreEqual(1, result);
+        }
+
+        [TestMethod]
+        public void SubstractTwoNumbersAndReturnsValidResultForSymbolOperation()
+        {
+            int number1 = 2;
+            int number2 = 1;
+            double result = _calculatorEngine.Calculate("-", number1, number2);
+            Assert.AreEqual(1, result);
+        }
+
+        [TestMethod]
+        public void MultiplyTwoNumbersAndReturnsValidResultForNonSymbolOperation()
+        {
+            int number1 = 2;
+            int number2 = 2;
+            double result = _calculatorEngine.Calculate("multiply", number1, number2);
+            Assert.AreEqual(4, result);
+        }
+
+        [TestMethod]
+        public void MultiplyTwoNumbersAndReturnsValidResultForSymbolOperation()
+        {
+            int number1 = 2;
+            int number2 = 2;
+            double result = _calculatorEngine.Calculate("*", number1, number2);
+            Assert.AreEqual(4, result);
+        }
+
+        [TestMethod]
+        public void DivideTwoNumbersAndReturnsValidResultForNonSymbolOperation()
+        {
+            int number1 = 2;
+            int number2 = 1;
+            double result = _calculatorEngine.Calculate("divide", number1, number2);
+            Assert.AreEqual(2, result);
+        }
+
+        [TestMethod]
+        public void DivideTwoNumbersAndReturnsValidResultForSymbolOperation()
+        {
+            int number1 = 2;
+            int number2 = 1;
+            double result = _calculatorEngine.Calculate("/", number1, number2);
+            Assert.AreEqual(2, result);
+        }
     }
 }
